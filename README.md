@@ -6,7 +6,7 @@ anomaly detection model applied to campus parking survey data.
 
 ## Contents
 - code/: Jupyter notebook (autoencoder)
-- data/: De-identified survey CSV
+- data/: Dataset Survey CSV
 - docs/: Thesis / project PDF
 - slides/: Presentation PPTX
 
