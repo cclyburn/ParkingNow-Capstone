@@ -1,0 +1,15 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Virtualenv / env
+.env
+venv/
+ENV/
+
+# Data (if you don't want to publish large raw data)
+data/*.csv
